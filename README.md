@@ -7,7 +7,7 @@ I study computer science at the University of Manitoba (graduating December 2026
 - **[Ask the Gita](https://kalpkj.github.io/ask-the-gita/)**: ask the Bhagavad Gita a question and read the verses that answer it. All 701 verses are searched in the browser with a small embedding model; a local Llama model can write an answer that cites them. React, TypeScript, Transformers.js, Ollama.
 - **[Atomix](https://kalpkj.github.io/Atomix/)**: an interactive periodic table with a 3D Bohr model of every element, drawn with Three.js from its electron shells.
 - **[Sundarkand](https://kalpkj.github.io/sundarkand/)**: the complete Sundarkand in Devanagari, roman letters and English, laid out to read like a printed pothi.
-- **In progress**: a webcam app that recognises Naruto hand seals and casts the jutsu, with the detector running on your device.
+- **[Jutsu](https://kalpkj.github.io/jutsu/)**: make Naruto hand seals at your webcam and cast the jutsu. An object detector recognises 13 seals on your device, and a WebGL shader draws the camera as a manga panel. React, TypeScript, ONNX Runtime, WebGL.
 
 Client work: [KVSCHE](https://kvsche.com) on Shopify, [Happy Brides](https://happybrides.ca) on Weebly, and [Buildora](https://buildoraonline.com).
 
